@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/diamond.png</file>
+        <file>img/rectangle.png</file>
+        <file>img/Round.png</file>
+        <file>img/Rounded_Rectangle.png</file>
+        <file>img/settings.png</file>
+        <file>img/trapezoid.png</file>
+        <file>img/line.png</file>
+        <file>img/file_add.png</file>
+        <file>img/file_delete.png</file>
+        <file>img/file_open.png</file>
+        <file>img/file_save.png</file>
+        <file>img/arrow0.png</file>
+        <file>img/arrow1.png</file>
+        <file>img/arrow2.png</file>
+        <file>img/arrow3.png</file>
+        <file>img/MainIco.png</file>
+    </qresource>
+</RCC>
